@@ -1,5 +1,8 @@
 FROM node:lts-stretch-slim as node_modules
-MAINTAINER Liran Tal <liran.tal@gmail.com>
+
+LABEL version="1.0"
+LABEL maintainer="liran.tal@gmail.com"
+
 WORKDIR /usr/src/app
 COPY app/package.json .
 COPY app/yarn.lock .
