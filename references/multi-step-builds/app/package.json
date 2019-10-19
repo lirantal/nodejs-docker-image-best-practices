@@ -1,0 +1,13 @@
+{
+  "name": "multi-step-builds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "fastify": "^2.9.0"
+  }
+}
