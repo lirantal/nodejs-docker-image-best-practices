@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "fastify": "^2.9.0"
+    "fastify": "^2.15.1"
   }
 }
