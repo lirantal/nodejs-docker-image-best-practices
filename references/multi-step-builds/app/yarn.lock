@@ -104,9 +104,9 @@ fastq@^1.6.0:
     reusify "^1.0.0"
 
 find-my-way@^2.0.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/find-my-way/-/find-my-way-2.2.0.tgz#08d42d2bac41c6048569978970db184cb68a6bab"
-  integrity sha512-sta5P6Vv9T1MSAPnSMlpFPhYqy70UX5XIRYX2D7J08xCwW9t26gKVGJoQYvHbfBFigC1CLGPTXeRLj9K/bLFqw==
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/find-my-way/-/find-my-way-2.2.5.tgz#86ce825266fa28cd962e538a45ec2aaa84c3d514"
+  integrity sha512-GjRZZlGcGmTh9t+6Xrj5K0YprpoAFCAiCPgmAH9Kb09O4oX6hYuckDfnDipYj+Q7B1GtYWSzDI5HEecNYscLQg==
   dependencies:
     fast-decode-uri-component "^1.0.0"
     safe-regex2 "^2.0.0"
