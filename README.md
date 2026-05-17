@@ -2,6 +2,10 @@
 
 In this repository I aim to document best practices for building Node.js based docker images.
 
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
+
 # Author
 
 © [Liran Tal](https://github.com/lirantal)
